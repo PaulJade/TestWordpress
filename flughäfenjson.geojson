@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9562658900231984,
+                    50.940034554217036
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1,
+                "Name": "Kölle",
+                "Link": "https://www.hannover96.de/startseite.html",
+                "Betreiber": "AirDS"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7645821188529993,
+                    51.219724869149005
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2,
+                "Name": "Düsseldorf",
+                "Link": "https://www.hannover96.de/startseite.html",
+                "Betreiber": "AirDS"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9023180516843956,
+                    52.136053203952201
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3,
+                "Name": "Osnabrück",
+                "Link": "https://www.hannover96.de/startseite.html",
+                "Betreiber": "AirDS"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7859087418597621,
+                    53.10576402518624
+                ]
+            },
+            "properties": {
+                "OBJECTID": 4,
+                "Name": "Brmeen",
+                "Link": "https://www.hannover96.de/startseite.html",
+                "Betreiber": "AirDS"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7369607188815515,
+                    52.346960141063526
+                ]
+            },
+            "properties": {
+                "OBJECTID": 5,
+                "Name": "Hannover",
+                "Link": "https://www.hannover96.de/startseite.html",
+                "Betreiber": "AirDS"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6802362992697653,
+                    50.097333534724505
+                ]
+            },
+            "properties": {
+                "OBJECTID": 6,
+                "Name": "Frankfurt",
+                "Link": "https://www.hannover96.de/startseite.html",
+                "Betreiber": "AirDS"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.390207996622175,
+                    52.531012781917994
+                ]
+            },
+            "properties": {
+                "OBJECTID": 7,
+                "Name": "Berlin",
+                "Link": "https://www.hannover96.de/startseite.html",
+                "Betreiber": "AirDS"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.593776483371999,
+                    48.101102527792108
+                ]
+            },
+            "properties": {
+                "OBJECTID": 8,
+                "Name": "München",
+                "Link": "https://www.hannover96.de/startseite.html",
+                "Betreiber": "AirDS"
+            }
+        }
+    ]
+}
